@@ -54,6 +54,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/helionlf/helionlf/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/helionlf/helionlf/output/github-snake.svg" alt="Snake animation" />
 
 ###
